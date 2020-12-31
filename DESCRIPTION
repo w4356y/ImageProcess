@@ -1,0 +1,13 @@
+Package: ImageProcess
+Title: Image Modification
+Version: 0.0.0.9000
+Authors@R: person('Wei', 'Jiang', email = 'w4356y@163.com', role = c('cre', 'aut'))
+Description: An golem app for image processing.
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
